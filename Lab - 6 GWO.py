@@ -99,10 +99,56 @@ if __name__ == "__main__":
 
 
 ############OUTPUT###############
-Iteration 1/5, Best Fitness: 29.414129428770693
-Iteration 2/5, Best Fitness: 29.414129428770693
-Iteration 3/5, Best Fitness: 3.837126912548784
-Iteration 4/5, Best Fitness: 1.0182297448226532
-Iteration 5/5, Best Fitness: 0.45023840713376584
-Best position found: [0.13672901 0.09852544 0.38514355 0.26987857 0.44795795]
-Best objective value: 0.45023840713376584
+Iteration 1/50, Best Fitness: 42.79424996701728
+Iteration 2/50, Best Fitness: 12.500799853658568
+Iteration 3/50, Best Fitness: 8.298738015697063
+Iteration 4/50, Best Fitness: 3.920207133633615
+Iteration 5/50, Best Fitness: 1.2226806180901382
+Iteration 6/50, Best Fitness: 0.33591137932150095
+Iteration 7/50, Best Fitness: 0.14635012301763084
+Iteration 8/50, Best Fitness: 0.044272842167895544
+Iteration 9/50, Best Fitness: 0.030495292717057178
+Iteration 10/50, Best Fitness: 0.013167212117360516
+Iteration 11/50, Best Fitness: 0.00462294065750525
+Iteration 12/50, Best Fitness: 0.004443247891892386
+Iteration 13/50, Best Fitness: 0.0023615849510666333
+Iteration 14/50, Best Fitness: 0.0012681548062805233
+Iteration 15/50, Best Fitness: 0.000335204706973059
+Iteration 16/50, Best Fitness: 0.000335204706973059
+Iteration 17/50, Best Fitness: 0.00015665927860789518
+Iteration 18/50, Best Fitness: 6.124724493681782e-05
+Iteration 19/50, Best Fitness: 2.8687297235493365e-05
+Iteration 20/50, Best Fitness: 2.290278640075217e-05
+Iteration 21/50, Best Fitness: 1.1038502498064416e-05
+Iteration 22/50, Best Fitness: 6.970144816855817e-06
+Iteration 23/50, Best Fitness: 5.62588421165653e-06
+Iteration 24/50, Best Fitness: 3.085234496825378e-06
+Iteration 25/50, Best Fitness: 2.178618121233763e-06
+Iteration 26/50, Best Fitness: 1.062751109431824e-06
+Iteration 27/50, Best Fitness: 6.798589594733175e-07
+Iteration 28/50, Best Fitness: 5.116334092283641e-07
+Iteration 29/50, Best Fitness: 3.877340072775356e-07
+Iteration 30/50, Best Fitness: 2.534734171887928e-07
+Iteration 31/50, Best Fitness: 1.8956016285602229e-07
+Iteration 32/50, Best Fitness: 1.5870632202955642e-07
+Iteration 33/50, Best Fitness: 1.0143451258928606e-07
+Iteration 34/50, Best Fitness: 7.050206297731235e-08
+Iteration 35/50, Best Fitness: 5.6192189661778585e-08
+Iteration 36/50, Best Fitness: 4.5096529009903717e-08
+Iteration 37/50, Best Fitness: 3.8111726771464614e-08
+Iteration 38/50, Best Fitness: 3.094101713957885e-08
+Iteration 39/50, Best Fitness: 2.8665902809959634e-08
+Iteration 40/50, Best Fitness: 2.7157287028991157e-08
+Iteration 41/50, Best Fitness: 2.3565149852575313e-08
+Iteration 42/50, Best Fitness: 2.0705964538010005e-08
+Iteration 43/50, Best Fitness: 1.942724433437514e-08
+Iteration 44/50, Best Fitness: 1.667300472162348e-08
+Iteration 45/50, Best Fitness: 1.6112683199170945e-08
+Iteration 46/50, Best Fitness: 1.515325016469644e-08
+Iteration 47/50, Best Fitness: 1.4414032997815537e-08
+Iteration 48/50, Best Fitness: 1.379047054274129e-08
+Iteration 49/50, Best Fitness: 1.341236500112782e-08
+Iteration 50/50, Best Fitness: 1.3266480235990753e-08
+Best position found: [ 5.44510240e-05 -5.36893850e-05  4.23171830e-05 -5.06662989e-05
+ -5.53280971e-05]
+Best objective value: 1.3266480235990753e-08
